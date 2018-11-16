@@ -1,0 +1,6 @@
+framework module Pods_EliminationBlock {
+  umbrella header "Pods-EliminationBlock-umbrella.h"
+
+  export *
+  module * { export * }
+}
